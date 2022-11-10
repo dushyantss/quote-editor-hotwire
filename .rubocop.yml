@@ -18,3 +18,7 @@ Rails:
   Enabled: true # enable rubocop-rails cops
 Style/RedundantFetchBlock:
   Enabled: false # fasterer conflict
+Minitest/MultipleAssertions:
+  Max: 30
+Style/MethodCallWithArgsParentheses:
+  Enabled: false
