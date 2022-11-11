@@ -1,24 +1,7 @@
-# README
+# quote-editor
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Followed the turbo rails tutorial at [hotrails.dev](https://www.hotrails.dev/turbo-rails)
 
-Things you may want to cover:
+Run `bin/setup` to setup, `bin/rails db:seed` to get initial data and `bin/dev` to run the local server.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Check out the fixtures for the username and passwords for the test accounts.
