@@ -20,5 +20,7 @@ Style/RedundantFetchBlock:
   Enabled: false # fasterer conflict
 Minitest/MultipleAssertions:
   Max: 30
+Minitest/EmptyLineBeforeAssertionMethods:
+  Enabled: false
 Style/MethodCallWithArgsParentheses:
   Enabled: false
